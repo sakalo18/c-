@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-import static java.lang.System.err;
+
 import static java.lang.System.in;
 
 public class Number6 {
@@ -45,7 +45,7 @@ public class Number6 {
                     good += word.charAt(0);
                 }
                 for(int i = good.length(); i<word.length();i++){
-                    good += ".";
+                    good += "#";
                 }
                 System.out.println("Tip:'" + good +"'");
             }

@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3955711d-1427-4dd0-94e7-71ab9ff42432" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Symbols.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number3.java" afterDir="false" />
+    <list default="true" id="3955711d-1427-4dd0-94e7-71ab9ff42432" name="Changes" comment="строки">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.number3">
+  <component name="RunManager" selected="Application.Number6">
     <configuration name="Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Number2" />
       <module name="Symbols" />
@@ -87,10 +77,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number6" />
         <item itemvalue="Application.number3" />
         <item itemvalue="Application.Number4" />
         <item itemvalue="Application.Number5" />
-        <item itemvalue="Application.Number6" />
         <item itemvalue="Application.Number2" />
       </list>
     </recent_temporary>
@@ -104,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671563355450</updated>
     </task>
+    <task id="LOCAL-00001" summary="строки">
+      <created>1672079017724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672079017724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="строки" />
+    <option name="LAST_COMMIT_MESSAGE" value="строки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
