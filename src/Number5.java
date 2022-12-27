@@ -3,22 +3,11 @@ import java.util.Scanner;
 import static java.lang.System.in;
 
 public class Number5 {
-    public static void  isPalindrome(){
-             boolean a=true;
-             boolean b=false;
-        Scanner sc = new Scanner(in);
-            String str = sc.next(), reverseStr = "";
-
-            int strLength = str.length();
-
-            for (int i = (strLength - 1); i >= 0; --i) {
-                reverseStr = reverseStr + str.charAt(i);
+    public static boolean  isPalindrome(String str){
+            String reverseStr = "";
+            for (int i = str.length(); i > 0; i--) {
+                reverseStr += str.charAt(i-1);
             }
-
-            if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
-                System.out.println(str + " \n"+a);
-            } else {
-                System.out.println(str + " \n"+b);
-            }
+            return str.equalsIgnoreCase(reverseStr);
         }
     }
