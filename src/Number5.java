@@ -3,7 +3,7 @@ import java.util.Scanner;
 import static java.lang.System.in;
 
 public class Number5 {
-    public static void main(String[] args) {
+    public static void  isPalindrome(){
              boolean a=true;
              boolean b=false;
         Scanner sc = new Scanner(in);

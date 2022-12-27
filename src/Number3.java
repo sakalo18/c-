@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 import static java.lang.System.in;
 
-public class number3 {
-    public static void main(String[] args) {
+public class Number3 {
+    public static void findWordPosition(){
         Scanner sc = new Scanner(in);
         String source = sc.next();
         String target = sc.next();

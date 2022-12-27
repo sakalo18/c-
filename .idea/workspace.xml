@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3955711d-1427-4dd0-94e7-71ab9ff42432" name="Changes" comment="строки">
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/number3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +43,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Number6">
-    <configuration name="Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number2" />
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Number3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number3" />
       <module name="Symbols" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="number3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="number3" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="Symbols" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Number6" />
-        <item itemvalue="Application.number3" />
+        <item itemvalue="Application.Number3" />
         <item itemvalue="Application.Number4" />
         <item itemvalue="Application.Number5" />
-        <item itemvalue="Application.Number2" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672079017724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="строки">
+      <created>1672079402089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672079402089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
